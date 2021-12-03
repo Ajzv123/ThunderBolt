@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">3R</string>
+    <string name="Titulo">Las 3R</string>
+    <string name="recolecci_n_de_basura">Recolección de basura</string>
+    <string name="recolecci_n_de_basura_electronica">Recolección de basura electronica</string>
+    <string name="recolecci_n_de_chatarra">Recolección de chatarra</string>
+    <string name="cu_l_es_nuestro_proposito">¿Cuál es nuestro proposito?</string>
+    <string name="objetivo">Nuestro objetivo es el facilitar la recolección de deshechos tales como basura electronicá, chatarra y la basura de siempre</string>
+    <string name="title_activity_maps_location">MapsLocation</string>
+    <string name="appTittle">Green Collector</string>
+    <string name="iniSeBot">Iniciar sesión</string>
+    <string name="sinSesi">Invitado</string>
+    <string name="Correo">Ingresa tu correo electronico</string>
+    <string name="Contrasena">Ingresa tu contraseña</string>
+    <string name="BotonR">Registrarse</string>
+    <string name="bienvenido_qu_es_lo_que_desea_realizar">Bienvenido, ¿qué es lo que desea realizar?</string>
+</resources>
